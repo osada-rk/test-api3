@@ -1,15 +1,7 @@
 { 
-  "name"   : "John Smith",
-  "sku"    : "20223",
-  "price"  : 23.95,
-  "shipTo" : { "name" : "Jane Smith",
-               "address" : "123 Maple Street",
-               "city" : "Pretendville",
-               "state" : "NY",
-               "zip"   : "12345" },
-  "billTo" : { "name" : "John Smith",
-               "address" : "123 Maple Street",
-               "city" : "Pretendville",
-               "state" : "NY",
-               "zip"   : "12345" }
+  "name"   : "名前 〇〇",
+  "date"    : "2022/9/14 14:00",
+  "human"  : "",
+  "alert"  : "なし",
+  "transfer"  : "なし"
 }
